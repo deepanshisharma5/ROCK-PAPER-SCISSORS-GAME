@@ -1,4 +1,4 @@
-#project 13
+#project 
 #rock paper scissors
 
 import random
